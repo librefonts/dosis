@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Dosis-SemiBold.otf.GlyphOrder.ttx"/>
+  <head src="Dosis-SemiBold.otf._h_e_a_d.ttx"/>
+  <hhea src="Dosis-SemiBold.otf._h_h_e_a.ttx"/>
+  <maxp src="Dosis-SemiBold.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Dosis-SemiBold.otf.O_S_2f_2.ttx"/>
+  <name src="Dosis-SemiBold.otf._n_a_m_e.ttx"/>
+  <cmap src="Dosis-SemiBold.otf._c_m_a_p.ttx"/>
+  <post src="Dosis-SemiBold.otf._p_o_s_t.ttx"/>
+  <CFF src="Dosis-SemiBold.otf.C_F_F_.ttx"/>
+  <GPOS src="Dosis-SemiBold.otf.G_P_O_S_.ttx"/>
+  <GSUB src="Dosis-SemiBold.otf.G_S_U_B_.ttx"/>
+  <hmtx src="Dosis-SemiBold.otf._h_m_t_x.ttx"/>
+  <kern src="Dosis-SemiBold.otf._k_e_r_n.ttx"/>
+</ttFont>
