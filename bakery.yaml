@@ -1,0 +1,9 @@
+commit: HEAD
+process_files: [Dosis-SemiBold.ttf.ttx, Dosis-Regular.ttf.ttx, Dosis-Medium.ttf.ttx,
+  Dosis-Light.ttf.ttx, Dosis-ExtraLight.ttf.ttx, Dosis-ExtraBold.ttf.ttx, Dosis-Bold.ttf.ttx,
+  src/Dosis-SemiBold.otf.ttx, src/Dosis-Regular.otf.ttx, src/Dosis-Medium.otf.ttx,
+  src/Dosis-Light.otf.ttx, src/Dosis-ExtraLight.otf.ttx, src/Dosis-ExtraBold.otf.ttx,
+  src/Dosis-Bold.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
